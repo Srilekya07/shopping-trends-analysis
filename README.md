@@ -93,5 +93,3 @@ Feel free to fork the project, create feature branches, and submit pull requests
 This project is licensed under the MIT License.
 
 ---
-
-Happy analyzing! 📊
