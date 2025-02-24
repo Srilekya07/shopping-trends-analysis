@@ -28,8 +28,8 @@ The EDA process includes:
 ```
 .
 ├── data
-│   └── shopping_trends.csv (your dataset)
-├── eda_shopping_trends.ipynb (EDA notebook)
+│   └── shopping_trends_updated.csv (your dataset)
+├── AICTE-Shopping Trends Analysis.ipynb (EDA notebook)
 ├── README.md (this file)
 ```
 
