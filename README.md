@@ -32,8 +32,6 @@ The EDA process includes:
 .
 ├── data
 │   └── shopping_trends.csv (your dataset)
-├── visuals
-│   └── (saved visualizations)
 ├── eda_shopping_trends.ipynb (EDA notebook)
 ├── README.md (this file)
 ```
