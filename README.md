@@ -20,10 +20,7 @@ The EDA process includes:
 4. **Correlation Analysis**
    - Heatmap to identify relationships between numerical variables.
 
-5. **Time-based Analysis**
-   - Monthly sales trends (assumes a 'Date' column is present).
-
-6. **Customer Segmentation**
+5. **Customer Segmentation**
    - K-Means clustering to group customers based on age and purchase amount.
 
 ## Project Structure
@@ -62,10 +59,10 @@ The EDA process includes:
 
 ## Usage
 
-1. Place your dataset (e.g., `shopping_trends.csv`) in the `data` folder.
+1. Place your dataset (e.g., `shopping_trends_updated.csv`) in the `data` folder.
 2. Open the Jupyter notebook:
    ```bash
-   jupyter notebook eda_shopping_trends.ipynb
+   jupyter notebook AICTE-Shopping Trends Analysis.ipynb
    ```
 3. Run the cells sequentially to perform the analysis.
 
