@@ -53,11 +53,11 @@ The project uses the following libraries:
 - scikit-learn
 
 Install them via:
-```bash
+```
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
-## Results
+## 📈 Results
 
 - **Insights:** Summary of trends, correlations, and clusters uncovered during the analysis.
 
