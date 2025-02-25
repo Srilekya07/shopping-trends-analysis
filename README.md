@@ -43,7 +43,7 @@ This project performs Exploratory Data Analysis (EDA) on shopping trends data to
    pip install -r requirements.txt
    ```
    
-## Dependencies
+## 🧩 Dependencies
 
 The project uses the following libraries:
 - pandas
@@ -61,7 +61,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 - **Insights:** Summary of trends, correlations, and clusters uncovered during the analysis.
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to fork the project, create feature branches, and submit pull requests.
 
